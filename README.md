@@ -1,6 +1,6 @@
 ## Faleev Projects
 
-| Tables        | Are           | Version  |
+| Picture        | Text           | Version  |
 | ------------- |:-------------:| -----:|
 | ![grab-landing-page](https://github.com/nupod/test-game/blob/master/a%20(1).gif)       | Arkanoid Clone| 0.01 |
 | ![grab-landing-page](https://github.com/nupod/to-garden/blob/master/a%20(2).gif)       | Shaving Simulator      |   0.04 |
